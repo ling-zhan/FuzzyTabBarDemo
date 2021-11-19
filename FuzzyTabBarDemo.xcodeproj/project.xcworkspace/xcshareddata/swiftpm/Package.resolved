@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FuzzyTabBar",
+        "repositoryURL": "https://github.com/ling-zhan/FuzzyTabBar.git",
+        "state": {
+          "branch": "main",
+          "revision": "056bf24f07fcf26e4ca0630b8104cfe6447adac8",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
